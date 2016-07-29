@@ -1,0 +1,23 @@
+module.exports={
+
+   //code and test related
+	report:'Report/',
+	allcode:'CodeAndTestCases/',
+	testCase:'Tests/',
+	src:'ecomm_project/',
+
+   //composer related
+	composerLocation: '/usr/local/bin/composer',
+
+   //phpunit related
+	punitPharLocation: 'vendor/bin/phpunit',
+	punitCoverageClover: 'Report/phpUnitclover',
+	punitCoverageHtml: 'Report/phpUnitCoverageHtml',
+	punitCoveragePhp: 'Report/phpUnitcoveragePhp',
+
+   //phpdocumentor related
+	docsSource : 'CodeAndTestCases/**',
+	phpdocsReportLocation : 'Report/phpDocs',
+
+
+}

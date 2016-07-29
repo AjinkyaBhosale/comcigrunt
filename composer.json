@@ -1,0 +1,14 @@
+{
+    "name": "root/ecommerce-grunt",
+    "description": "EcommerceGrunt",
+    "require": {
+        "phpunit/phpunit": "^5.1",
+        "phpdocumentor/phpdocumentor": "^2.8"
+    },
+    "authors": [
+        {
+            "name": "ajinkyab",
+            "email": "ajinkyab@cybage.com"
+        }
+    ]
+}
